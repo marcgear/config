@@ -1,4 +1,4 @@
-gitconfig
+Config
 =========
 
-My preferred git config
+Just a load of personal config files to make new computer setup easier

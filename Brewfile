@@ -3,6 +3,7 @@ tap 'homebrew/cask'
 tap 'homebrew/cask-versions'
 tap 'homebrew/bundle'
 tap 'homebrew/services'
+tap 'homebrew/cask-drivers'
 
 # cli tools
 brew 'wget'
@@ -30,6 +31,7 @@ cask 'backblaze'
 # fun stuff
 cask 'spotify'
 cask 'epic-games'
+cask 'sonos'
 
 # App store
 # mas 'Tweetbot', id: 1384080005
