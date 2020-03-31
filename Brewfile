@@ -11,6 +11,8 @@ brew 'yarn'
 brew 'make'
 brew 'mysql'
 brew 'awscli'
+brew 'serverless'
+brew 'telnet'
 
 # gui apps
 cask 'google-chrome'
