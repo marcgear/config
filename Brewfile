@@ -29,6 +29,7 @@ cask 'postman'
 cask 'dropbox'
 cask 'notational-velocity'
 cask 'backblaze'
+cask 'handbrake'
 
 # fun stuff
 cask 'spotify'
