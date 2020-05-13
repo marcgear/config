@@ -13,6 +13,7 @@ brew 'mysql'
 brew 'awscli'
 brew 'serverless'
 brew 'telnet'
+brew 'docker'
 
 # gui apps
 cask 'google-chrome'
@@ -30,6 +31,8 @@ cask 'dropbox'
 cask 'notational-velocity'
 cask 'backblaze'
 cask 'handbrake'
+cask 'microsoft-teams'
+cask 'tweetbot'
 
 # fun stuff
 cask 'spotify'
