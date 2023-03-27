@@ -1,4 +1,4 @@
-# 
+#
 tap 'homebrew/cask'
 tap 'homebrew/cask-versions'
 tap 'homebrew/bundle'
@@ -14,30 +14,27 @@ brew 'awscli'
 brew 'serverless'
 brew 'telnet'
 brew 'docker'
+brew 'docker-machine'
 
 # gui apps
 cask 'google-chrome'
 cask 'visual-studio-code'
-cask '1password6'
-cask 'screenflow'
-cask 'skype'
-cask 'slack'
 cask 'sublime-text'
-cask 'vagrant'
 cask 'docker'
 cask '1password'
 cask 'postman'
 cask 'dropbox'
 cask 'notational-velocity'
 cask 'backblaze'
-cask 'handbrake'
 cask 'microsoft-teams'
-cask 'tweetbot'
+cask 'fantastical'
 
 # fun stuff
+cask 'handbrake'
 cask 'spotify'
-cask 'epic-games'
-cask 'sonos'
+cask 'discord'
+cask 'steam'
+
 
 # App store
 # mas 'Tweetbot', id: 1384080005
