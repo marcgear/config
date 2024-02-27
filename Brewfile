@@ -6,6 +6,7 @@ tap 'homebrew/services'
 tap 'homebrew/cask-drivers'
 
 # cli tools
+brew 'git'
 brew 'wget'
 brew 'yarn'
 brew 'make'
@@ -24,16 +25,18 @@ cask 'docker'
 cask '1password'
 cask 'postman'
 cask 'dropbox'
-cask 'notational-velocity'
 cask 'backblaze'
 cask 'microsoft-teams'
 cask 'fantastical'
+cask 'microsoft-remote-desktop'
 
 # fun stuff
 cask 'handbrake'
 cask 'spotify'
 cask 'discord'
 cask 'steam'
+cask 'whatsapp'
+
 
 
 # App store
