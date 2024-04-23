@@ -1,8 +1,8 @@
 [user]
     name = Marc Gear
-    email = marcgear@gmail.com  
+    email = marcgear@gmail.com
 [core]
-  repositoryformatversion = 0
+    repositoryformatversion = 0
 	filemode = true
 	bare = false
 	logallrefupdates = true

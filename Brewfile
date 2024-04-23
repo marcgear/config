@@ -36,8 +36,3 @@ cask 'spotify'
 cask 'discord'
 cask 'steam'
 cask 'whatsapp'
-
-
-
-# App store
-# mas 'Tweetbot', id: 1384080005
