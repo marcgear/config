@@ -39,3 +39,5 @@
 	ign = ls-files -o -i --exclude-standard
 [push]
 	default = upstream
+[init]
+	defaultBranch = main
